@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angelasrsh
 - 👀 I’m interested in software and game design
 - 🌱 I’m currently learning electrical and computer engineering
-- 💞️ I’m looking to collaborate on devloping games
+- 💞️ I’m looking to collaborate on developing games
 - 📫 How to reach me: email: angelasrh@gmail.com
 
 <!---
