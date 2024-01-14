@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelasrsh
-- 👀 I’m interested in hardware and embedded systems
+- 👀 I’m interested in hardware, computer graphics, and embedded systems
 - 🌱 I’m currently learning electrical and computer engineering
       - specifically battery management system circuitry
 - 💞️ I’m looking to collaborate on developing games, embedded projects
